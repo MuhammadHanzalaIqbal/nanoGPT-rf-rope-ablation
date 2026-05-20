@@ -154,3 +154,11 @@ MIT — see [`LICENSE`](LICENSE).
 ---
 
 *Author: Muhammad Hanzala Iqbal · Pull requests and issues welcome.*
+
+## Related work by the same author
+
+Wireless / signal-processing portfolio:
+
+- [`mimo-spatial-filtering`](https://github.com/MuhammadHanzalaIqbal/mimo-spatial-filtering) — SVD precoding, beam-domain analysis, CSI-error impact.
+- [`mimo-channel-estimation`](https://github.com/MuhammadHanzalaIqbal/mimo-channel-estimation) — SRS-based LS channel estimation under TDD reciprocity.
+- [`mimo-channel-denoising`](https://github.com/MuhammadHanzalaIqbal/mimo-channel-denoising) — adaptive delay-window + soft singular-value shrinkage, strictly improves on the hard-window baseline.
